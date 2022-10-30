@@ -8,3 +8,5 @@
  4. You have to return without extra flower(s) in your hand.
 
 Question: How many flower(s) you have to take initially before go to the pond to worship the GODs?
+
+Solution of this problem uploaded in github
